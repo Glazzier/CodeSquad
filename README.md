@@ -30,3 +30,7 @@ Here're some of the project's best features:
 - Respect and Collaboration: Respect the opinions and contributions of other collaborators. Work collaboratively and constructively to improve the project. 
 - License: Ensure that your contribution aligns with the license of the CodeSquad project.
 - Review Process: All pull requests will be reviewed by project collaborators before being merged. During the review process comments and suggestions may be made to improve the proposed changes.
+
+## Participants
+- 1 Glazzier (CEO)
+- 2 FarnatGames
