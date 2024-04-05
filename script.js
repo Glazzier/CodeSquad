@@ -1,4 +1,3 @@
-// Definir traducciones
 const translations = {
     'es': {
         'title': 'CodeSquad',
@@ -24,7 +23,6 @@ const translations = {
     }
 };
 
-// Función para cambiar el idioma
 function changeLanguage(lang) {
     const langData = translations[lang];
     document.getElementById('title').textContent = langData.title;
@@ -45,5 +43,4 @@ function changeLanguage(lang) {
     document.getElementById('copyright').textContent = `© ${new Date().getFullYear()} CodeSquad V2. Todos los derechos reservados.`;
 }
 
-// Ejecutar la función para establecer el idioma inicial (español)
 changeLanguage('es');
