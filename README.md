@@ -1,6 +1,6 @@
 <h1 align="center" id="title">CodeSquad</h1>
 
-<p align="center"><img src="https://socialify.git.ci/Glazzier/CodeSquad/image?font=Rokkitt&amp;forks=1&amp;issues=1&amp;language=1&amp;name=1&amp;owner=1&amp;pattern=Solid&amp;pulls=1&amp;stargazers=1&amp;theme=Dark" alt="project-image"></p>
+<p align="center"><img src="https://socialify.git.ci/Glazzier/CodeSquad/image?font=Rokkitt&forks=1&issues=1&name=1&owner=1&pattern=Solid&pulls=1&stargazers=1&theme=Dark" alt="CodeSquad" width="640" height="320" /></p>
 
 <p id="description">CodeSquad is a collaborative platform dedicated to helping the developer community improve their skills and solve problems related to software development.</p>
 
