@@ -80,23 +80,3 @@ footer {
     width: 100%;
     color: #fff;
 }
-
-#language-buttons {
-    margin-top: 20px;
-}
-
-#language-buttons button {
-    padding: 10px 20px;
-    margin-right: 10px;
-    font-size: 16px;
-    background-color: #005C53;
-    color: #fff;
-    border: none;
-    border-radius: 5px;
-    cursor: pointer;
-    transition: background-color 0.3s;
-}
-
-#language-buttons button:hover {
-    background-color: #007bff;
-}
